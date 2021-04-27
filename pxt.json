@@ -1,5 +1,5 @@
 {
-    "name": "legend f malora",
+    "name": "legend 0f malorao",
     "description": "",
     "dependencies": {
         "device": "*"
@@ -18,7 +18,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.4.30",
+        "target": "1.4.40",
         "targetId": "arcade"
     },
     "supportedTargets": [
